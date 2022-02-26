@@ -49,7 +49,7 @@
     "three-orbitcontrols": "^2.102.1",
     "triplesec": "^3.0.26",
     "tween.js": "^16.6.0",
-    "url-parse": "^1.4.3",
+    "url-parse": "^1.5.8",
     "vue": "^2.5.17",
     "vue-analytics": "^5.16.2",
     "vue-apexcharts": "^1.4.0",
